@@ -5,7 +5,7 @@
 
   **Software Developer · Computer Studies Educator**
 
-  Native, resource-conscious software for Linux and Android — mostly C++23, occasionally Kotlin. When I'm not writing code, I'm teaching it.
+  Native, resource-conscious software for Linux and Android — mostly C++23 & Javascript, occasionally Kotlin. When I'm not writing code, I'm teaching it.
 
   📍 Nairobi, Kenya
 
@@ -15,7 +15,7 @@
 
 <br/>
 
-🔭 Actively building **[Malama](https://github.com/Magpiny/malama)** — now at v0.2.5, working toward a public v0.3 release.
+🔭 Actively building **[Malama](https://github.com/Magpiny/malama)** — now at v0.2.7, working toward a public v0.3 release.
 
 ---
 
@@ -64,6 +64,7 @@ Everything `htop`, `upower -i`, and `lscpu` show separately, in one lightweight 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white)
 
 ---
 
