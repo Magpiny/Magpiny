@@ -5,7 +5,7 @@
 
   **Software Developer · Computer Trainer**
 
-  Native, resource-conscious software for Linux and Android — mostly C++23 & Javascript, occasionally Kotlin. When I'm not writing code, I'm teaching it.
+  Native, resource-conscious software for Linux and Android — mostly C++23, occasionally Kotlin. When I'm not writing code, I'm teaching it.
 
   📍 Nairobi, Kenya
 
@@ -57,6 +57,7 @@ Everything `htop`, `upower -i`, and `lscpu` show separately, in one lightweight 
 ![C++](https://img.shields.io/badge/C%2B%2B23-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![wxWidgets](https://img.shields.io/badge/wxWidgets-2E8B57?style=flat-square)
@@ -64,11 +65,10 @@ Everything `htop`, `upower -i`, and `lscpu` show separately, in one lightweight 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Magpiny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magpiny&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top languages" />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile/top-langs.svg" width="42%" alt="Top languages" />
 </div>
