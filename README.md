@@ -3,7 +3,7 @@
 
   # Wanjare Samuel
 
-  **Software Developer · Computer Studies Educator**
+  **Software Developer · Computer Trainer**
 
   Native, resource-conscious software for Linux and Android — mostly C++23 & Javascript, occasionally Kotlin. When I'm not writing code, I'm teaching it.
 
